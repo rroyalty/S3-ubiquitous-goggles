@@ -18,25 +18,40 @@ header {
 }
 
 section {
+  background-color: #394549
 }
 
 #left {
+  background-color:#30948D;
+  float: left;
+  width: 33.3%;
 }
 
 #middle {
+  background-color:#9E1212;
+  float: left;
+  width: 33.3%
 }
 
 #right {
+  background-color:#30948D;
+  float: left;
+  width: 33.3%
 }
 
 #full {
+  clear: left;
 }
 
 #division {
+  background-color:#6ea3da
 }
 
 aside {
+  background-color:#a6b747
 }
 
 footer {
+  background-color:#FFA500;
+  clear: both;
 }
